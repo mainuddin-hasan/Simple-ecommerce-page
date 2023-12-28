@@ -23,7 +23,7 @@ const BestSeller = () => {
     return (
         <div className="mt-40 flex gap-5">
             <div className="mx-auto">
-                <img className='w-[700px] h-[400px]' src="/public/free-shipping-png-46931.png" alt="Best Selling" />
+                <img className='w-[700px] h-[400px]' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNicAA6WEjIlMHz8azt5ep71jTv465hocuVR206HETwQ&s" alt="Best Selling" />
             </div>
             <div className="mx-auto">
                 <div className="flex gap-3 mx-auto">
